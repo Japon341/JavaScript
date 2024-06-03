@@ -23,17 +23,6 @@ console.log("Bucle finalizado");
 
 
 
-//BUCLE CON FOR 
-
-/*let myMap = new Map([[ "Jaime", 20], ["Manuel", 21], ["Zaragoza", 2 ] ])
-let productsByName = new Map( [["Madrid Pierde"], ["Jesús Maria"], ["Palomo"] ]);
-
-
-for (const value of myMap) {
-    let a = productsByName.get(value)
-    console.log(a)
-}*/
-
 
 
 
